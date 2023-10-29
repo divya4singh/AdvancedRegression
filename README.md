@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+This project is on Advanced Regression techniques - Lasso & Ridge Regression
 
 
 ## Table of Contents
