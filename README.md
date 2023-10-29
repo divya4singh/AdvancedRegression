@@ -1,4 +1,4 @@
-# Project Name
+# House Price Prediction - Advanced Regression
 This project is on Advanced Regression techniques - Lasso & Ridge Regression
 
 
